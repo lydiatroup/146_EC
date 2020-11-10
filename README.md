@@ -20,7 +20,7 @@ Lydia Troup
 
   The chart below shows the accuracy, number of correctly classified points, and training and testing mean squared errors for the logistic regressions using each of the different scalers.
 
-![ds_ec_chart](ds_ec_chart.jpg)
+![ds_ec_chart](ds_ec_chart.png)
 
 
 ## K Nearest Neighbors Model
