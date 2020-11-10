@@ -48,7 +48,6 @@ Ideally, a grid search would be performed to identify the best combination of nu
 
 ## Conclusion
 Of the models tested the random forest model with 3500 trees, a maximum depth of 8 and 9 minimum samples was the best performing model. It had an accuracy of 72.18% on the testing data. Theoretically, if this sample is representative of the population, this model could accurately predict an individual’s education based on their age, location, wealth, gender, and size in Libera 72% of the time.
-
-	The graph below compares the accuracy of the best logistic, KNN, decision tree, and random forest models. From the graph it is clear that, for this dataset, as the model becomes more complex, it becomes more accurate as well.
+	The graph below compares the accuracy of the best logistic, KNN, decision tree, and random forest models. From the graph it is clear that, for this dataset, as the model becomes more complex it's accuracy increases.
 
 ![acc_graph](acc_graph.png)
