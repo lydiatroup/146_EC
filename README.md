@@ -8,3 +8,5 @@ Lydia Troup
 ![data_desc_graph](data_desc_graph.png)
 
 ![log_acc_graph](log_acc_graph.png)
+
+![acc_graph](acc_graph.png)
