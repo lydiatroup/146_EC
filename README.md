@@ -1,4 +1,4 @@
-# 146_EC
+# Data 146 Extra Credit Investigation
 Lydia Troup
 
 ## Introduction
